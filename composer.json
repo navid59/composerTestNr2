@@ -1,0 +1,23 @@
+{
+    "name": "navid/test2",
+    "description": "The my test composer nr 2.",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Navid Torabazari",
+            "email": "n.torabazari@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5",
+        "ext-dom": "*",
+        "firebase/php-jwt": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Navid\\Test2\\": "src/"
+        }
+    }
+}
