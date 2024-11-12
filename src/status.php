@@ -1,5 +1,5 @@
 <?php 
-namespace Navid\Test2;
+namespace Navidut\Test2;
 
 class Status extends Start{
     

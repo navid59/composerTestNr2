@@ -1,5 +1,5 @@
 {
-    "name": "navid/test2",
+    "name": "navidut/test2",
     "description": "The my test composer nr 2.",
     "type": "library",
     "license": "Apache-2.0",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Navid\\Test2\\": "src/"
+            "Navidut\\Test2\\": "src/"
         }
     }
 }
